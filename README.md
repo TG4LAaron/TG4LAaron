@@ -1,10 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2020 - 26 October, 2020
-
-Vue.js       5 mins          ███████████████████▒░░░░░   77.32 % 
-JavaScript   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.99 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
