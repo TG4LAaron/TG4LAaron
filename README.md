@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
 Go      23 mins         █████████████████████████   99.70 % 
 ```
