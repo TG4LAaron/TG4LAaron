@@ -1,9 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2021 - 17 January, 2021
-
-Go      23 mins         █████████████████████████   99.70 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
