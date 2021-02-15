@@ -1,10 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 06 February, 2021 - 13 February, 2021
-
-TypeScript   12 mins         ██████████████████▓░░░░░░   74.54 % 
-Vue.js       3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <!--
