@@ -1,7 +1,9 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 November, 2021 - 03 December, 2021
+
+C#      45 mins         █████████████████████████   99.59 % 
 ```
 <!--END_SECTION:waka-->
 <!--
