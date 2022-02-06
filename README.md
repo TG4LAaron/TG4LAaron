@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 C#       3 hrs 58 mins   █████████████████████████   99.59 % 
 ```
