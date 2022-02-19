@@ -1,11 +1,11 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
+Week: 12 February, 2022 - 18 February, 2022
 
-Total: 8 hrs 23 mins
+Total: 6 hrs 14 mins
 
-C#       8 hrs 22 mins   █████████████████████████   99.83 % 
+C#   6 hrs 14 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <!--
