@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
 ```text
-From: 17 February, 2022 - To: 23 February, 2022
+From: 18 February, 2022 - To: 24 February, 2022
 
 C#    20 hrs 23 mins  █████████████████████████   100.00 % 
 ```
