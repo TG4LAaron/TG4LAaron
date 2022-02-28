@@ -1,10 +1,13 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 25 February, 2022
 
-C#    15 hrs 43 mins  █████████████████████████   100.00 % 
+```text
+From: 21 February 2022 - To: 27 February 2022
+
+C#    7 hrs 23 mins   █████████████████████████   99.99 %
+XML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->
 <!--
 **TG4LAaron/TG4LAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
