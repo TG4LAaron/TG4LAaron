@@ -2,12 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 09 March 2022
+From: 04 March 2022 - To: 10 March 2022
 
-C#               9 hrs 16 mins   █████████████████████████   99.90 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C#           11 hrs 33 mins  █████████████████████████   99.98 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
