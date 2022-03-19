@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2022 - To: 17 March 2022
-
-C#   1 hr 45 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
