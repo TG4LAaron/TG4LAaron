@@ -2,9 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-C#   17 mins         █████████████████████████   100.00 %
+C#               17 mins         ██████████████████████▒░░   89.96 %
+GitIgnore file   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+C++              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
