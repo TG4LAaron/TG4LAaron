@@ -2,12 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
-
-C++                    1 hr 14 mins    ██████████████████████▒░░   88.80 %
-C                      7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-C#                     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-MsBuild targets file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
