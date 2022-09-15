@@ -2,14 +2,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-C++              1 hr 47 mins    ████████████▓░░░░░░░░░░░░   50.68 %
-C                1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.63 %
-GitIgnore file   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-CMake            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-XML              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Vcxproj          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+C++   0 secs          █████████████████████████   99.86 %
+C     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
