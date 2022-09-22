@@ -2,9 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Text   0 secs          █████████████████████████   100.00 %
+C++       48 mins         ███████████████████▓░░░░░   78.11 %
+C         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+XML       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Vcxproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
