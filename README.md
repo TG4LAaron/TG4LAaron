@@ -2,14 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 September 2022 - To: 06 October 2022
-
-C++              1 hr            █████████████▓░░░░░░░░░░░   54.21 %
-C                32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.52 %
-uproject         10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-C#               6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Vcxproj          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
