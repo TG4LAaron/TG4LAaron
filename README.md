@@ -2,7 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 14 October 2022 - To: 21 October 2022
+
+C++                       3 hrs 59 mins   ███████████████████▓░░░░░   78.50 %
+C                         57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+CMake                     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+GitIgnore file            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+C#                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
