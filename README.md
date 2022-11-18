@@ -2,7 +2,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 10 November 2022 - To: 16 November 2022
+
+C     10 mins         █████████████████████░░░░   84.62 %
+XML   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+C++   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
