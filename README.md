@@ -2,14 +2,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 November 2022 - To: 23 November 2022
+From: 18 November 2022 - To: 24 November 2022
 
-Csproj                 9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.59 %
-MsBuild targets file   9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
-C++                    6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
-XML                    6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-YAML                   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.89 %
-C                      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+C++   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
