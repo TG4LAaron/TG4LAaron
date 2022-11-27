@@ -2,9 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 November 2022 - To: 24 November 2022
-
-C++   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
