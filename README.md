@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 December 2022 - To: 07 December 2022
+From: 02 December 2022 - To: 08 December 2022
 
 C++   0 secs          █████████████▒░░░░░░░░░░░   53.83 %
 C     0 secs          ███████████▓░░░░░░░░░░░░░   46.17 %
