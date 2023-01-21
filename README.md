@@ -1,11 +1,4 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 <!--
 **TG4LAaron/TG4LAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
